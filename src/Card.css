@@ -1,0 +1,58 @@
+body {
+    font-family: "Open Sans";
+}
+
+.paginas{
+    
+    display: inline-flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+    width: 225px;
+}
+
+.paginas:hover{
+    
+}
+
+.foto-pag{
+    
+}
+
+.foto{
+
+}
+
+.name1 {
+    display: inline-flex;
+    flex-direction: center;
+    align-items: center;
+
+}
+
+
+.nome-pag{   
+    
+}
+.nome-pag2 {
+    
+    
+}
+.n1 {
+    color: #FF0000;
+}
+.n2 {
+    border-radius: 5px;
+    color: #FFF;
+    background-color: #FF0000;
+}
+
+.n2:hover {
+    background-color: #EEE;
+    color: #EA1D2C;
+}
+
+.nome-pag2:hover {  
+    color: #EEE;
+    
+}
